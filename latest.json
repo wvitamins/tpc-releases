@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "url": "",
+  "sha256": null,
+  "notes": "Placeholder — no release published yet. release.yml overwrites this on the first tag.",
+  "publishedAt": "2026-06-26T00:00:00Z",
+  "channel": "Stable"
+}
