@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0-beta.5",
-  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.1.0-beta.5/PharmacyAI-Setup-0.1.0-beta.5.exe",
-  "sha256": "430b0387ab5d44b4a970bd74e44cf455e05a4faa749870fcfd67a8d9e3c6b768",
-  "notes": "RxAI 0.1.0-beta.5",
-  "publishedAt": "2026-06-26T21:21:23Z",
+  "version": "0.1.0-beta.6",
+  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.1.0-beta.6/TPC-Setup-0.1.0-beta.6.exe",
+  "sha256": "44677851eea8ce37014f2e4bb70319295cd2ab9ca5db9a32a6231a682f5edec2",
+  "notes": "TPC 0.1.0-beta.6",
+  "publishedAt": "2026-06-26T21:51:42Z",
   "channel": "Beta"
 }
