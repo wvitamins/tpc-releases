@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0-beta.32",
-  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.2.0-beta.32/TPC-Setup-0.2.0-beta.32.exe",
-  "sha256": "54d5281b1f81892948d3a7b6c1ad4d10c4fce74ab6368297606fb534b75f66af",
-  "notes": "TPC 0.2.0-beta.32",
-  "publishedAt": "2026-07-02T00:59:23Z"
+  "version": "0.2.0-beta.33",
+  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.2.0-beta.33/TPC-Setup-0.2.0-beta.33.exe",
+  "sha256": "16e0557371cd6a0c6dfee9b6da807c44e1e62f723048eb9c60363d411f2ca9a1",
+  "notes": "TPC 0.2.0-beta.33",
+  "publishedAt": "2026-07-02T12:54:21Z"
 }
