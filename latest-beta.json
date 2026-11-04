@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0-beta.344",
-  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.6.0-beta.344/TPC-Setup-0.6.0-beta.344.exe",
-  "sha256": "c4e21eb21be9d7af834a6f4a9f62c2bd923ed7d7da94fe70fc64b8eb39946611",
-  "notes": "TPC 0.6.0-beta.344",
-  "publishedAt": "2026-11-03T23:32:41Z"
+  "version": "0.6.0-beta.345",
+  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.6.0-beta.345/TPC-Setup-0.6.0-beta.345.exe",
+  "sha256": "cee61aef0de56233c81338fa85d18a0f68aec2ceae84f28571441750dfd217aa",
+  "notes": "TPC 0.6.0-beta.345",
+  "publishedAt": "2026-11-04T00:58:27Z"
 }
