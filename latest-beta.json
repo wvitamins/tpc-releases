@@ -1,7 +1,7 @@
 {
-  "version": "0.7.60",
-  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.7.60/TPC-Setup-0.7.60.exe",
-  "sha256": "0699de3464528288b83151899a64ffc62d02ccc88974bf2c90c02fd3a81c01e4",
-  "notes": "TPC 0.7.60",
-  "publishedAt": "2026-11-12T16:51:55Z"
+  "version": "0.7.61",
+  "url": "https://github.com/wvitamins/tpc-releases/releases/download/v0.7.61/TPC-Setup-0.7.61.exe",
+  "sha256": "31abd25cf88f65ecbd4d45a315b002745c8585a57b3e30533b1887fda242a6bd",
+  "notes": "TPC 0.7.61",
+  "publishedAt": "2026-11-12T19:15:24Z"
 }
